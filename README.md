@@ -1,4 +1,4 @@
-# **Ad Mediation API**
+# **Ad Mediation API - Proof of Concept**
 
 ## About
 
