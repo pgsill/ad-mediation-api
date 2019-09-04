@@ -48,9 +48,9 @@ docker-compose down
 
 # **The main endpoints**
 
-## **GET**
+### **GET**
 
-## **`/api/app/<app_id>/mediate`**
+### **`/api/app/<app_id>/mediate`**
 
 ### **Returns a mediated list ordered by score**
 
@@ -80,9 +80,9 @@ docker-compose down
 ]
 ```
 
-## **PUT**
+### **PUT**
 
-## `/api/app/<app_id>/networks`
+### `/api/app/<app_id>/networks`
 
 ### **Updates the scores of the supplies list of networks from the application with the supplied ID**
 
