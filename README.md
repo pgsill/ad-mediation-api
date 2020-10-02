@@ -31,7 +31,6 @@ docker-compose up --build
 To test it go to **`http://localhost:5000`**
 
 To stop it run the command 
-
 ```
 docker-compose down
 ```
