@@ -2,7 +2,7 @@
 
 ## About
 
-This api receives applications and networks and a score value that is the relation between them, this score is used to mediate and return an ordered list of one applcation networks ordered by the score.
+This API receives applications and networks and a score value that is the relation between them, this score is used to mediate and return an ordered list of one applcation networks ordered by the score.
 
 ## How to run this project
 
