@@ -6,7 +6,7 @@ This API receives applications and networks and a score value that is the relati
 
 ## How to run this project
 
-Inside the folder deploy you have a sample environment file, modify it to your preferences or keep the defaults.
+Inside the `deploy` folder you have a sample environment file, modify it to your preferences or keep the defaults.
 
 Inside the `docker-compose.yml` file you have the environment variables and ports configurations, modify it to your preferences or keep the defauls
 
